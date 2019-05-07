@@ -1,0 +1,1 @@
+kontak<?php /**PATH C:\Users\kiki\lara_crud\resources\views//blog/kontak.blade.php ENDPATH**/ ?>
